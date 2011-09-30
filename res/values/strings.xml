@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Halo Android</string>
+    <string name="act1">Halo Android - Activity 1</string>
+    <string name="act2">Halo Android - Activity 2</string>
+    <string name="noExt">Activity 2 -  tanpa extras</string>
+</resources>
